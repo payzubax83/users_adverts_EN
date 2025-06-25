@@ -3,7 +3,7 @@
 Analysis of user activity and ad views. 
 
 ## Dataset used
-- <a href="https://github.com/payzubax83/users_adverts_EN/blob/main/Users.csv">Script</a>
+- <a href="https://github.com/payzubax83/users_adverts_EN/blob/main/Users.csv">Dataset</a>
 
 ##  Questions (KPIs)
 - Write a SQL query that returns, as a single number, the number of unique users in this table from 2023-11-07 to 2023-11-15
@@ -19,7 +19,7 @@ Analysis of user activity and ad views.
 - After creating the database and table, complete the abovementioned queries one by one
 
 ## SQL script
-- <a href="https://github.com/payzubax83/Superstore-Orders/blob/main/Superstore%20orders.pbix">Power BI file</a>
+- <a href="https://github.com/payzubax83/users_adverts_EN/blob/main/MySQL%20project%201_en.sql">SQL script</a>
 
 ## Project insight
 - The number of unique users in the period from 2023-11-07 to 2023-11-15 is 3199
